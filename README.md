@@ -1,4 +1,4 @@
-# 📊 Aadhaar Enrollment Analytics Dashboard (UIDAI Data Hackathon 2026)
+# 📊 Aadhaar Enrollment Analytics Dashboard | UIDAI Data Hackathon 2026
 **A comprehensive, interactive analytics platform for visualizing and analyzing Aadhaar enrollment data across India**
 
 
@@ -10,6 +10,7 @@
 ## 📑 Table of Contents
 
 - Overview
+- Problem Statement
 - Key Features
 - Technology Stack
 - Screenshots
@@ -35,6 +36,13 @@ The **Aadhaar Enrollment Analytics Dashboard** is a powerful data visualization 
 - 📊 **Export Ready**: Download filtered datasets for further analysis
 
 ---
+
+### Problem Statement 
+Problem Statement: `Unlocking Societal Trends in Aadhaar Enrolment and Updates`
+
+Identify meaningful patterns, trends, anomalies, or predictive indicators and translate them into clear insights or solution frameworks that can support informed decision-making and system improvements.
+
+--- 
 
 ## ✨ Key Features
 
