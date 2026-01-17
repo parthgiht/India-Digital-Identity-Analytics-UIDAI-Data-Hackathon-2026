@@ -79,16 +79,19 @@ The **Aadhaar Enrollment Analytics Dashboard** is a powerful data visualization 
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![image_alt](https://via.placeholder.com/800x400?text=Dashboard+Main+View)
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/Dashboard.png?raw=true)
 
 ### Interactive India Map
-![image_alt](https://via.placeholder.com/800x400?text=Interactive+India+Map)
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/Geographic%20Analysis.png?raw=true)
+
+### State Analysis
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/State%20wise%20Analysis.png?raw=true)
 
 ### District Analysis
-![image_alt](https://via.placeholder.com/800x400?text=District+Level+Analysis)
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/Distirct%20wise%20Analysis.png?raw=true)
 
 ### Temporal Trends
-![image_alt](https://via.placeholder.com/800x400?text=Temporal+Trends)
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/Temporal%20Analysis.png?raw=true)
 
 ---
 
@@ -290,6 +293,6 @@ Five main KPIs displayed at the top:
 
 **Data Analyst | Visualization Specialist | Business Intelligence Expert**
 
-© 2025 All Rights Reserved
+© 2026 All Rights Reserved
 
 </div>
